@@ -3847,8 +3847,7 @@ input, select, textarea {
 			}
 
 			#main > .post .intro-image {
-				flex: 0 0 auto;
-				margin-right: 150px; /* Adjust spacing between image and text */
+				margin-right: 30px; /* Adjust spacing between image and text */
 			}
 
 			#main > .post .intro-image img {
@@ -3857,7 +3856,6 @@ input, select, textarea {
 			}
 			
 			#main > .post .intro-text {
-				flex: 1;
 				font-size: 14px;
 				text-align: justify; /* Align text to justify */
 			}
