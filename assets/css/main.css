@@ -3930,6 +3930,14 @@ input, select, textarea {
 						margin-bottom: 0;
 					}
 
+					#main > .post .entry{
+						display: inline-block;
+						grid-template-columns: 0px 0fr; /* 200px for the date and the rest for details */
+						column-gap: 0px; /* Space between date and details */
+						align-items: start;
+						margin-bottom: 20px;
+					}
+
 			}
 
 		#main > .posts {
