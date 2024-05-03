@@ -3871,18 +3871,13 @@ input, select, textarea {
 				align-items: start;
 			}
 
-			#main > .post .experiences p {
+			#main > .post .experiences p, .education p, .presentations p {
 				font-size: 16px;
 				margin-bottom: 0;
 			}
 
-			#main > .post .experiences ul {
+			#main > .post .experiences ul, .presentations ul {
 				font-size: 14px;
-				margin-bottom: 0;
-			}
-
-			#main > .post .education p {
-				font-size: 16px;
 				margin-bottom: 0;
 			}
 
