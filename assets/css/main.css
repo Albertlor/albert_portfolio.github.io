@@ -3871,7 +3871,7 @@ input, select, textarea {
 				align-items: start;
 			}
 
-			#main > .post .experiences p, .education p, .presentations p {
+			#main > .post .experiences p, .education p, .presentations p, .teaching p {
 				font-size: 16px;
 				margin-bottom: 0;
 			}
